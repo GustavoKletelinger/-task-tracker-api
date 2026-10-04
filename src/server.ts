@@ -42,5 +42,5 @@ async function start(): Promise<void> {
     process.exit(1);
   }
 }
-const   testeErro = 1
+
 void start();
