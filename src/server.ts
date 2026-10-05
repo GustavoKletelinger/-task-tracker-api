@@ -42,5 +42,5 @@ async function start(): Promise<void> {
     process.exit(1);
   }
 }
-// husky validação
+// teste validação ok
 void start();
